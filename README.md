@@ -1,6 +1,6 @@
 # William Krodthoff
 ### Sr. Red Team Engineer | Computer Security Professional
-![Alt text](https://media.licdn.com/dms/image/C5603AQFkehSnsDvVFQ/profile-displayphoto-shrink_400_400/0/1517356120479?e=1717632000&v=beta&t=OXelOEPCp54R8XaQF9HlPsXUXGbz02Rklh-qEXbUkAs "profile_pic")
+![Alt text](https://media.licdn.com/dms/image/C5603AQFkehSnsDvVFQ/profile-displayphoto-shrink_800_800/0/1517356120575?e=1717632000&v=beta&t=Q53VVFxY5OSe1c7STIkeHV1nCT6vL-joSw-9DHEhzAM "profile_pic")
 
 ---
 
