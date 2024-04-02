@@ -1,83 +1,48 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>William Krodthoff - Computer Security Professional</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
+# William Krodthoff
+### Computer Security Professional
+- **Email:** [william@krodthoff.com](mailto:william@krodthoff.com)
+- **LinkedIn:** [View my LinkedIn](https://linkedin.com/in/williamkrodthoff/)
 
-        header, section, footer {
-            margin: 20px;
-            padding: 20px;
-            background-color: white;
-            border-radius: 5px;
-        }
+## About Me
+Computer security professional seeking a full-time position in the design, development, and testing of computing systems and software products.
 
-        header h1, header p {
-            margin: 0;
-            padding: 0;
-        }
+## Professional Experience
+- **Sr. Red Team Engineer at Target Corp., Minneapolis, MN (May 2022 - Present):**
+  - Provide expertise in adversary emulation operations including consultation, design, and execution.
 
-        a {
-            color: #0077cc;
-            text-decoration: none;
-        }
+- **Red Team Engineer at Target Corp., Minneapolis, MN (Dec 2021 - May 2022):**
+  - Execute adversary emulation using established plans, playbooks, and infrastructure.
 
-        a:hover {
-            text-decoration: underline;
-        }
+- **Cyber Security Analyst at Target Corp., Minneapolis, MN (Apr 2020 - Dec 2021):**
+  - Monitored live systems to identify and evaluate real-time vulnerabilities.
 
-        #about, #experience, #education, #skills, #awards {
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>William Krodthoff</h1>
-        <p>Computer Security Professional</p>
-        <p><a href="mailto:wjk1034@gmail.com">wjk1034@gmail.com</a> | <a href="tel:+12156875695">215-687-5695</a></p>
-        <a href="https://linkedin.com/in/williamkrodthoff/" target="_blank">View my LinkedIn</a>
-    </header>
+- **Full Stack Engineer at Target Corp., Minneapolis, MN (Oct 2019 - Mar 2020):**
+  - Worked on an internal web application used to connect brands with guests through marketing channels.
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p>[Add a brief introduction about yourself here.]</p>
-    </section>
+- **Founder of Startup, Rochester Institute of Technology, Rochester, NY (Jan 2019 - Sept 2019):**
+  - Part of the Saunders Student Accelerator 1.0 Program.
 
-    <section id="experience">
-        <h2>Professional Experience</h2>
-        <p>Sr. Red Team Engineer at Target Corp. - Present</p>
-        <p>[Other roles and responsibilities]</p>
-    </section>
+- **Red Team Intern at Target Corp., Minneapolis, MN (Summer 2018):**
+  - Emulated possible threats to challenge the company's security strategy.
 
-    <section id="education">
-        <h2>Education</h2>
-        <p>Bachelor’s of Science in Computing Security, Rochester Institute of Technology, May 2019</p>
-    </section>
+## Education
+- Bachelor’s of Science in Computing Security, Rochester Institute of Technology, May 2019
 
-    <section id="skills">
-        <h2>Skills</h2>
-        <ul>
-            <li>Python</li>
-            <li>Java</li>
-            <!-- Add other skills here -->
-        </ul>
-    </section>
+## Skills
+- Python
+- Java
+- JavaScript
+- Golang
+- Basic C
+- Android
+- React
+- Assembly Language
+- Operating Systems: Ubuntu, CentOS, Windows, MacOS
 
-    <section id="awards">
-        <h2>Awards & Certifications</h2>
-        <p>Red Team Operator - Zero-Point Security Ltd, Dec. 2022</p>
-        <p>GIAC Web Application Penetration Tester (GWAPT)</p>
-    </section>
+## Awards & Certifications
+- Zero-Point Security Ltd, Red Team Operator (Dec 2022)
+- SANS, GIAC Web Application Penetration Tester (GWAPT) (June 2021)
 
-    <footer>
-        <p>Contact me at <a href="mailto:wjk1034@gmail.com">wjk1034@gmail.com</a></p>
-    </footer>
-</body>
-</html>
+---
+
+**Contact me at:** [william@krodthoff.com](mailto:william@krodthoff.com)
