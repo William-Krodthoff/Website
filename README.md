@@ -1,4 +1,5 @@
 # William Krodthoff
+![Alt text](https://media.licdn.com/dms/image/C5603AQFkehSnsDvVFQ/profile-displayphoto-shrink_400_400/0/1517356120479?e=1717632000&v=beta&t=OXelOEPCp54R8XaQF9HlPsXUXGbz02Rklh-qEXbUkAs "profile_pic")
 ### Computer Security Professional
 - **Email:** [william@krodthoff.com](mailto:william@krodthoff.com)
 - **LinkedIn:** [View my LinkedIn](https://linkedin.com/in/williamkrodthoff/)
