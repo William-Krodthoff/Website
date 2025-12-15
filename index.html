@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>William Krodthoff | Sr. Red Team Engineer</title>
+  <meta name="description" content="William Krodthoff — Sr. Red Team Engineer | Computer Security Professional" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <header class="nav">
+    <div class="container nav-inner">
+      <a class="brand" href="#top">WK</a>
+      <nav class="nav-links">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+        <a class="btn small" href="https://linkedin.com" target="_blank" rel="noreferrer">LinkedIn</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <p class="pill">Sr. Red Team Engineer • Computer Security</p>
+          <h1>William Krodthoff</h1>
+          <p class="lead">
+            I help teams find real weaknesses, prove impact, and ship better security.
+            Threat emulation, pentesting, and practical remediation.
+          </p>
+
+          <div class="cta">
+            <a class="btn" href="#projects">View Projects</a>
+            <a class="btn ghost" href="mailto:william@krodthoff.com">Email Me</a>
+          </div>
+
+          <div class="quick">
+            <div class="quick-item">
+              <div class="k">Focus</div>
+              <div class="v">Offense → Defense Outcomes</div>
+            </div>
+            <div class="quick-item">
+              <div class="k">Specialties</div>
+              <div class="v">Red Team • Web • Cloud • AD</div>
+            </div>
+          </div>
+        </div>
+
+        <aside class="card profile">
+          <img src="Profile.jpeg" alt="Profile photo of William Krodthoff" />
+          <div class="profile-meta">
+            <div class="profile-name">William Krodthoff</div>
+            <div class="profile-title">Sr. Red Team Engineer</div>
+          </div>
+          <div class="profile-links">
+            <a class="chip" href="mailto:william@krodthoff.com">william@krodthoff.com</a>
+            <a class="chip" href="https://www.linkedin.com" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a class="chip" href="https://github.com/William-Krodthoff" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <div class="container">
+        <h2>About</h2>
+        <div class="card">
+          <p>
+            With extensive experience in ethical hacking and penetration testing, I have a proven track record of identifying
+            and exploiting vulnerabilities in a wide range of systems. My expertise in cybersecurity allows me to provide
+            thorough, actionable, and accurate insights to help companies improve their security posture.
+          </p>
+          <p>
+            I’m passionate about staying current with modern attacker tradecraft and translating findings into fixes that
+            actually reduce risk.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="section">
+      <div class="container">
+        <div class="section-head">
+          <h2>Projects</h2>
+          <p class="muted">A few things I’ve built / worked on (add your real links here).</p>
+        </div>
+
+        <div class="grid">
+          <a class="card tile" href="#" target="_blank" rel="noreferrer">
+            <div class="tile-top">
+              <div class="tile-title">LNK Research / Tooling</div>
+              <div class="tag">Windows</div>
+            </div>
+            <p class="muted">Artifact-focused tooling + tradecraft demos.</p>
+          </a>
+
+          <a class="card tile" href="#" target="_blank" rel="noreferrer">
+            <div class="tile-top">
+              <div class="tile-title">MacMirage</div>
+              <div class="tag">macOS</div>
+            </div>
+            <p class="muted">Security research + UI/UX realism experiments.</p>
+          </a>
+
+          <a class="card tile" href="#" target="_blank" rel="noreferrer">
+            <div class="tile-top">
+              <div class="tile-title">Writeups / Notes</div>
+              <div class="tag">Docs</div>
+            </div>
+            <p class="muted">Short posts on attacks, defense, and lessons learned.</p>
+          </a>
+
+          <a class="card tile" href="#" target="_blank" rel="noreferrer">
+            <div class="tile-top">
+              <div class="tile-title">Talks</div>
+              <div class="tag">Public</div>
+            </div>
+            <p class="muted">Conference material + demos (when available).</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="container">
+        <h2>Contact</h2>
+        <div class="card contact">
+          <div>
+            <div class="muted">Email</div>
+            <a class="biglink" href="mailto:william@krodthoff.com">william@krodthoff.com</a>
+          </div>
+          <div class="contact-actions">
+            <a class="btn" href="mailto:william@krodthoff.com">Send Email</a>
+            <a class="btn ghost" href="https://github.com/William-Krodthoff" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container footer-inner">
+        <span class="muted">© <span id="year"></span> William Krodthoff</span>
+        <span class="muted">krodthoff.com</span>
+      </div>
+    </footer>
+  </main>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
